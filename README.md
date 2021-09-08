@@ -6,3 +6,4 @@ In this project, we are going to use the fastai library to train on the [ImageNe
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingabzpro/Image-Classification-FastAI.jl/blob/main/Image%20Classification%20FastAI.ipynb) [![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/Image-Classification-FastAI.jl/blob/main/Image%20Classification%20FastAI.ipynb)
 
 ![](image.jpg)
+*Edited by Author | Elements by* [freepik.com](https://www.freepik.com/free-vector/hand-drawn-web-developers-working_12063788.htm#page=3&query=code&position=42)
